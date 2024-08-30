@@ -17,7 +17,7 @@ public class DriverFactory {
             case "EDGE" -> new EdgeDriver();
             default -> throw new RuntimeException("The Browser is not supported");
         };
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         driver.manage().window().maximize();
 
         return driver;
