@@ -4,21 +4,21 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.24.0', revision: '748ffc9bc3'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6e860efa7d948c0de7ac4eb598f79780, actions {actions=[org.openqa.selenium.interactions.Sequence@3891a98a]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49195}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49195/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 6e860efa7d948c0de7ac4eb598f79780",
+      "name" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.24.0', revision: '748ffc9bc3'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d46f3eef98b76db2f898210ad4a2c25b, actions {actions=[org.openqa.selenium.interactions.Sequence@eee923f]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49196}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49196/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d46f3eef98b76db2f898210ad4a2c25b",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "e20a57ad1a420881",
-        "parentUid" : "9bad964d055e398be676a78a09ef9c53",
+        "uid" : "6fa7480317256251",
+        "parentUid" : "9536d006973fc8368cf8a12ea6dc6184",
         "status" : "broken",
         "time" : {
-          "start" : 1725059257465,
-          "stop" : 1725059268962,
-          "duration" : 11497
+          "start" : 1725059388878,
+          "stop" : 1725059400298,
+          "duration" : 11420
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "9bad964d055e398be676a78a09ef9c53"
+      "uid" : "9536d006973fc8368cf8a12ea6dc6184"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]

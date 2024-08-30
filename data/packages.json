@@ -7,13 +7,13 @@
       "name" : "LoginTest",
       "children" : [ {
         "name" : "VerifyThatUserCantLoginWithValidButNotRegisteredEmail",
-        "uid" : "e20a57ad1a420881",
+        "uid" : "6fa7480317256251",
         "parentUid" : "a0b5e3afe120ed6b4f73a01434fcf204",
         "status" : "broken",
         "time" : {
-          "start" : 1725059257465,
-          "stop" : 1725059268962,
-          "duration" : 11497
+          "start" : 1725059388878,
+          "stop" : 1725059400298,
+          "duration" : 11420
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -23,13 +23,13 @@
       "name" : "CartTest",
       "children" : [ {
         "name" : "VerifyThatItemsAreAddedToCartCorrectly",
-        "uid" : "e53b33d9b450e744",
+        "uid" : "d2a8fdfa4d29d8f0",
         "parentUid" : "2cb258c358e9db1d95126e76c0c72d68",
         "status" : "passed",
         "time" : {
-          "start" : 1725059275681,
-          "stop" : 1725059296540,
-          "duration" : 20859
+          "start" : 1725059407036,
+          "stop" : 1725059426587,
+          "duration" : 19551
         },
         "flaky" : false,
         "parameters" : [ ]

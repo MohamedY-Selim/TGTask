@@ -2,40 +2,40 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "Mac-1725058064449.local",
+    "name" : "Mac-1725058356785.local",
     "children" : [ {
-      "name" : "3205@Mac-1725058064449.local.TestNG-test-Login Test-1(24)",
+      "name" : "3218@Mac-1725058356785.local.TestNG-test-Login Test-1(24)",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "e20a57ad1a420881",
-        "parentUid" : "58ef8b5a60bc242d6218c0239be45159",
+        "uid" : "6fa7480317256251",
+        "parentUid" : "e5979c70b02992d8c459b5d382517898",
         "status" : "broken",
         "time" : {
-          "start" : 1725059257465,
-          "stop" : 1725059268962,
-          "duration" : 11497
+          "start" : 1725059388878,
+          "stop" : 1725059400298,
+          "duration" : 11420
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "58ef8b5a60bc242d6218c0239be45159"
+      "uid" : "e5979c70b02992d8c459b5d382517898"
     }, {
-      "name" : "3205@Mac-1725058064449.local.TestNG-test-Cart Test-1(44)",
+      "name" : "3218@Mac-1725058356785.local.TestNG-test-Cart Test-1(45)",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "e53b33d9b450e744",
-        "parentUid" : "e1d3a1d72dc98c4f041aa7027b933731",
+        "uid" : "d2a8fdfa4d29d8f0",
+        "parentUid" : "b69980546d73ec1184edcfd63ff41390",
         "status" : "passed",
         "time" : {
-          "start" : 1725059275681,
-          "stop" : 1725059296540,
-          "duration" : 20859
+          "start" : 1725059407036,
+          "stop" : 1725059426587,
+          "duration" : 19551
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "e1d3a1d72dc98c4f041aa7027b933731"
+      "uid" : "b69980546d73ec1184edcfd63ff41390"
     } ],
-    "uid" : "2c8859141c7cc33fe68bd2b560e3137e"
+    "uid" : "b97c4625219615a65989fce6b742cf30"
   } ]
 }
