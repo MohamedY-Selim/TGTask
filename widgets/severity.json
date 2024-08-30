@@ -1,20 +1,20 @@
 [ {
-  "uid" : "141ed19245c863a1",
-  "name" : "Verify that user can't Login with valid but not registered email",
-  "time" : {
-    "start" : 1725059123224,
-    "stop" : 1725059134564,
-    "duration" : 11340
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "69cd57faa64ca85",
+  "uid" : "e53b33d9b450e744",
   "name" : "(Verify that Items are added to cart correctly)",
   "time" : {
-    "start" : 1725059141737,
-    "stop" : 1725059152612,
-    "duration" : 10875
+    "start" : 1725059275681,
+    "stop" : 1725059296540,
+    "duration" : 20859
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e20a57ad1a420881",
+  "name" : "Verify that user can't Login with valid but not registered email",
+  "time" : {
+    "start" : 1725059257465,
+    "stop" : 1725059268962,
+    "duration" : 11497
   },
   "status" : "broken",
   "severity" : "normal"

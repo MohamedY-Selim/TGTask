@@ -1,41 +1,41 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
   "children" : [ {
-    "name" : "Mac-1725057118992.local",
+    "name" : "Mac-1725058064449.local",
     "children" : [ {
-      "name" : "4401@Mac-1725057118992.local.TestNG-test-Login Test-1(24)",
+      "name" : "3205@Mac-1725058064449.local.TestNG-test-Login Test-1(24)",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "141ed19245c863a1",
-        "parentUid" : "637156189815cd5fb56dabe4089482c0",
+        "uid" : "e20a57ad1a420881",
+        "parentUid" : "58ef8b5a60bc242d6218c0239be45159",
         "status" : "broken",
         "time" : {
-          "start" : 1725059123224,
-          "stop" : 1725059134564,
-          "duration" : 11340
+          "start" : 1725059257465,
+          "stop" : 1725059268962,
+          "duration" : 11497
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "637156189815cd5fb56dabe4089482c0"
+      "uid" : "58ef8b5a60bc242d6218c0239be45159"
     }, {
-      "name" : "4401@Mac-1725057118992.local.TestNG-test-Cart Test-1(45)",
+      "name" : "3205@Mac-1725058064449.local.TestNG-test-Cart Test-1(44)",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "69cd57faa64ca85",
-        "parentUid" : "0c97d4e44c2135e352dfe2d9aea1f5dd",
-        "status" : "broken",
+        "uid" : "e53b33d9b450e744",
+        "parentUid" : "e1d3a1d72dc98c4f041aa7027b933731",
+        "status" : "passed",
         "time" : {
-          "start" : 1725059141737,
-          "stop" : 1725059152612,
-          "duration" : 10875
+          "start" : 1725059275681,
+          "stop" : 1725059296540,
+          "duration" : 20859
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "0c97d4e44c2135e352dfe2d9aea1f5dd"
+      "uid" : "e1d3a1d72dc98c4f041aa7027b933731"
     } ],
-    "uid" : "79e640849ed7fe48e84bc294b725fe08"
-  } ],
-  "name" : "timeline"
+    "uid" : "2c8859141c7cc33fe68bd2b560e3137e"
+  } ]
 }

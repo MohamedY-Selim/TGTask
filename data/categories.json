@@ -1,41 +1,25 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.23.1', revision: '656257d8e9'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4909365ac32a3e8084c64ac99e41f15e, actions {actions=[org.openqa.selenium.interactions.Sequence@24cc4585]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49199}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49199/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 4909365ac32a3e8084c64ac99e41f15e",
+      "name" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.24.0', revision: '748ffc9bc3'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6e860efa7d948c0de7ac4eb598f79780, actions {actions=[org.openqa.selenium.interactions.Sequence@3891a98a]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49195}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49195/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 6e860efa7d948c0de7ac4eb598f79780",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "141ed19245c863a1",
-        "parentUid" : "d49bf03988c198ecc5bcff274d646737",
+        "uid" : "e20a57ad1a420881",
+        "parentUid" : "9bad964d055e398be676a78a09ef9c53",
         "status" : "broken",
         "time" : {
-          "start" : 1725059123224,
-          "stop" : 1725059134564,
-          "duration" : 11340
+          "start" : 1725059257465,
+          "stop" : 1725059268962,
+          "duration" : 11497
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "d49bf03988c198ecc5bcff274d646737"
-    }, {
-      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#nav\\-hamburger\\-menu\"}\n  (Session info: chrome=128.0.6613.85)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.23.1', revision: '656257d8e9'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [458e6635b25b82d77eb0fa774109b7d0, findElement {value=nav-hamburger-menu, using=id}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49217/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 458e6635b25b82d77eb0fa774109b7d0",
-      "children" : [ {
-        "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "69cd57faa64ca85",
-        "parentUid" : "170dbff6d3b23b0b4a154ad047feac0f",
-        "status" : "broken",
-        "time" : {
-          "start" : 1725059141737,
-          "stop" : 1725059152612,
-          "duration" : 10875
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "170dbff6d3b23b0b4a154ad047feac0f"
+      "uid" : "9bad964d055e398be676a78a09ef9c53"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
-  } ],
-  "name" : "categories"
+  } ]
 }

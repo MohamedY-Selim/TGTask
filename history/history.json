@@ -2,20 +2,19 @@
   "35ec9a40adc5bbcd5657e0ec55e55489" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "69cd57faa64ca85",
-      "status" : "broken",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#nav\\-hamburger\\-menu\"}\n  (Session info: chrome=128.0.6613.85)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.23.1', revision: '656257d8e9'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [458e6635b25b82d77eb0fa774109b7d0, findElement {value=nav-hamburger-menu, using=id}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49217/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 458e6635b25b82d77eb0fa774109b7d0",
+      "uid" : "e53b33d9b450e744",
+      "status" : "passed",
       "time" : {
-        "start" : 1725059141737,
-        "stop" : 1725059152612,
-        "duration" : 10875
+        "start" : 1725059275681,
+        "stop" : 1725059296540,
+        "duration" : 20859
       }
     } ]
   },
@@ -29,13 +28,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "141ed19245c863a1",
+      "uid" : "e20a57ad1a420881",
       "status" : "broken",
-      "statusDetails" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.23.1', revision: '656257d8e9'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [4909365ac32a3e8084c64ac99e41f15e, actions {actions=[org.openqa.selenium.interactions.Sequence@24cc4585]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49199}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49199/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 4909365ac32a3e8084c64ac99e41f15e",
+      "statusDetails" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.24.0', revision: '748ffc9bc3'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [6e860efa7d948c0de7ac4eb598f79780, actions {actions=[org.openqa.selenium.interactions.Sequence@3891a98a]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49195}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49195/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 6e860efa7d948c0de7ac4eb598f79780",
       "time" : {
-        "start" : 1725059123224,
-        "stop" : 1725059134564,
-        "duration" : 11340
+        "start" : 1725059257465,
+        "stop" : 1725059268962,
+        "duration" : 11497
       }
     } ]
   }
