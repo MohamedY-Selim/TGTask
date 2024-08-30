@@ -1,3 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","eg.amazon.testcases.CartTest.VerifyThatItemsAreAddedToCartCorrectly","22238",""
-"passed","eg.amazon.testcases.LoginTest.VerifyThatUserCantLoginWithValidButNotRegisteredEmail","18987",""
