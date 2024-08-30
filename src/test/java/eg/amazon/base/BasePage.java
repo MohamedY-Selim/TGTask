@@ -14,6 +14,7 @@ import java.time.Duration;
 import java.util.Set;
 
 public class BasePage<T extends BasePage<T>> {
+
     //Driver
     protected WebDriver driver;
 
