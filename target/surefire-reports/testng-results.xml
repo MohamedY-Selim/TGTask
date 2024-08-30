@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T01:54:49 EEST" name="All Test Suite" finished-at="2024-08-31T01:55:36 EEST" duration-ms="47225">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T01:54:49 EEST" name="Test Initiation" finished-at="2024-08-31T01:54:49 EEST" duration-ms="25">
+    </test> <!-- Test Initiation -->
+    <test started-at="2024-08-31T01:54:49 EEST" name="Login Test" finished-at="2024-08-31T01:55:12 EEST" duration-ms="22492">
+      <class name="eg.amazon.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:eg.amazon.testcases.LoginTest@64a9d48c]" started-at="2024-08-31T01:54:49 EEST" name="setup" finished-at="2024-08-31T01:54:52 EEST" duration-ms="2828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyThatUserCantLoginWithValidButNotRegisteredEmail()[pri:0, instance:eg.amazon.testcases.LoginTest@64a9d48c]" started-at="2024-08-31T01:54:52 EEST" name="VerifyThatUserCantLoginWithValidButNotRegisteredEmail" description="Verify that user can&#039;t Login with valid but not registered email" finished-at="2024-08-31T01:55:11 EEST" duration-ms="19032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyThatUserCantLoginWithValidButNotRegisteredEmail -->
+        <test-method is-config="true" signature="tearDownI(org.testng.ITestResult)[pri:0, instance:eg.amazon.testcases.LoginTest@64a9d48c]" started-at="2024-08-31T01:55:11 EEST" name="tearDownI" finished-at="2024-08-31T01:55:12 EEST" duration-ms="263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyThatUserCantLoginWithValidButNotRegisteredEmail status=SUCCESS method=LoginTest.VerifyThatUserCantLoginWithValidButNotRegisteredEmail()[pri:0, instance:eg.amazon.testcases.LoginTest@64a9d48c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownI -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:eg.amazon.testcases.LoginTest@64a9d48c]" started-at="2024-08-31T01:55:12 EEST" name="tearDown" finished-at="2024-08-31T01:55:12 EEST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eg.amazon.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+    <test started-at="2024-08-31T01:55:12 EEST" name="Cart Test" finished-at="2024-08-31T01:55:36 EEST" duration-ms="24554">
+      <class name="eg.amazon.testcases.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:eg.amazon.testcases.CartTest@31f20c9f]" started-at="2024-08-31T01:55:12 EEST" name="setup" finished-at="2024-08-31T01:55:14 EEST" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyThatItemsAreAddedToCartCorrectly()[pri:0, instance:eg.amazon.testcases.CartTest@31f20c9f]" started-at="2024-08-31T01:55:14 EEST" name="VerifyThatItemsAreAddedToCartCorrectly" description="(Verify that Items are added to cart correctly)" finished-at="2024-08-31T01:55:36 EEST" duration-ms="22246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyThatItemsAreAddedToCartCorrectly -->
+        <test-method is-config="true" signature="tearDownI(org.testng.ITestResult)[pri:0, instance:eg.amazon.testcases.CartTest@31f20c9f]" started-at="2024-08-31T01:55:36 EEST" name="tearDownI" finished-at="2024-08-31T01:55:36 EEST" duration-ms="230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyThatItemsAreAddedToCartCorrectly status=SUCCESS method=CartTest.VerifyThatItemsAreAddedToCartCorrectly()[pri:0, instance:eg.amazon.testcases.CartTest@31f20c9f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownI -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:eg.amazon.testcases.CartTest@31f20c9f]" started-at="2024-08-31T01:55:36 EEST" name="tearDown" finished-at="2024-08-31T01:55:36 EEST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eg.amazon.testcases.CartTest -->
+    </test> <!-- Cart Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

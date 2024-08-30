@@ -1,0 +1,16 @@
+eg\amazon\factory\DriverFactory.class
+eg\amazon\config\EndPoint.class
+eg\amazon\objects\Product.class
+eg\amazon\pages\ProductPage.class
+eg\amazon\testcases\LoginTest.class
+eg\amazon\testcases\CartTest.class
+eg\amazon\utils\PropertiesUtils.class
+eg\amazon\base\BaseTest.class
+eg\amazon\pages\FlashDealsPage.class
+eg\amazon\pages\TodayDealsPage.class
+eg\amazon\utils\ConfigUtils.class
+eg\amazon\pages\LoginPage.class
+eg\amazon\pages\CartPage.class
+eg\amazon\pages\HomePage.class
+eg\amazon\pages\BrandPage.class
+eg\amazon\base\BasePage.class

@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-9E9MS69",
+    "children" : [ {
+      "name" : "22356@DESKTOP-9E9MS69.TestNG-test-Cart Test-1(53)",
+      "children" : [ {
+        "name" : "(Verify that Items are added to cart correctly)",
+        "uid" : "b14d7b3041908bce",
+        "parentUid" : "7cf58b71950f983242d818a18b5deeac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725058514168,
+          "stop" : 1725058536406,
+          "duration" : 22238
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7cf58b71950f983242d818a18b5deeac"
+    }, {
+      "name" : "22356@DESKTOP-9E9MS69.TestNG-test-Login Test-1(32)",
+      "children" : [ {
+        "name" : "Verify that user can't Login with valid but not registered email",
+        "uid" : "bcd296a096d71af0",
+        "parentUid" : "08595a5b908e7813aa7a2136e59b63ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725058492844,
+          "stop" : 1725058511831,
+          "duration" : 18987
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08595a5b908e7813aa7a2136e59b63ab"
+    } ],
+    "uid" : "c675b778327e26b2c74cb534b9e93afa"
+  } ]
+}
