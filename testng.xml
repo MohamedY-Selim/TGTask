@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Test Initiation">
+        <classes>
+            <class name="eg.amazon.factory.DriverFactory"/>
+        </classes>
+    </test>
+
+    <test verbose="1" name="Login Test" group-by-instances="true">
+        <classes>
+            <class name="eg.amazon.testcases.LoginTest"/>
+        </classes>
+    </test>
+    <test verbose="2" name="Cart Test" group-by-instances="true">
+        <classes>
+            <class name="eg.amazon.testcases.Cart"/>
+        </classes>
+    </test>
+</suite>
