@@ -4,21 +4,21 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "java.lang.reflect.InvocationTargetException\nBuild info: version: '4.24.0', revision: '748ffc9bc3'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d46f3eef98b76db2f898210ad4a2c25b, actions {actions=[org.openqa.selenium.interactions.Sequence@eee923f]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49196}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49196/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d46f3eef98b76db2f898210ad4a2c25b",
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#nav\\-hamburger\\-menu\"}\n  (Session info: chrome=128.0.6613.85)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.24.0', revision: '748ffc9bc3'\nSystem info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [437725ca8245e4853d1f9a9bbf432c58, findElement {using=id, value=nav-hamburger-menu}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.85, chrome: {chromedriverVersion: 128.0.6613.84 (606aa55c7d68..., userDataDir: /var/folders/m4/5dz5h26x329...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49279}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49279/devtoo..., se:cdpVersion: 128.0.6613.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 437725ca8245e4853d1f9a9bbf432c58",
       "children" : [ {
-        "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "6fa7480317256251",
-        "parentUid" : "9536d006973fc8368cf8a12ea6dc6184",
+        "name" : "(Verify that Items are added to cart correctly)",
+        "uid" : "3c72f630138c3750",
+        "parentUid" : "1128bdf6f8943be3e02ec4f73ed5b539",
         "status" : "broken",
         "time" : {
-          "start" : 1725059388878,
-          "stop" : 1725059400298,
-          "duration" : 11420
+          "start" : 1725059560741,
+          "stop" : 1725059571875,
+          "duration" : 11134
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "9536d006973fc8368cf8a12ea6dc6184"
+      "uid" : "1128bdf6f8943be3e02ec4f73ed5b539"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]

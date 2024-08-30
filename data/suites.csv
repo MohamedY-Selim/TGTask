@@ -1,3 +1,3 @@
 "Status","Name","Duration in ms","Description"
-"broken","eg.amazon.testcases.LoginTest.VerifyThatUserCantLoginWithValidButNotRegisteredEmail","11420",""
-"passed","eg.amazon.testcases.CartTest.VerifyThatItemsAreAddedToCartCorrectly","19551",""
+"broken","eg.amazon.testcases.CartTest.VerifyThatItemsAreAddedToCartCorrectly","11134",""
+"passed","eg.amazon.testcases.LoginTest.VerifyThatUserCantLoginWithValidButNotRegisteredEmail","13709",""

@@ -2,40 +2,40 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "Mac-1725058356785.local",
+    "name" : "Mac-1725058447718.local",
     "children" : [ {
-      "name" : "3218@Mac-1725058356785.local.TestNG-test-Login Test-1(24)",
-      "children" : [ {
-        "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "6fa7480317256251",
-        "parentUid" : "e5979c70b02992d8c459b5d382517898",
-        "status" : "broken",
-        "time" : {
-          "start" : 1725059388878,
-          "stop" : 1725059400298,
-          "duration" : 11420
-        },
-        "flaky" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "e5979c70b02992d8c459b5d382517898"
-    }, {
-      "name" : "3218@Mac-1725058356785.local.TestNG-test-Cart Test-1(45)",
+      "name" : "3150@Mac-1725058447718.local.TestNG-test-Cart Test-1(45)",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "d2a8fdfa4d29d8f0",
-        "parentUid" : "b69980546d73ec1184edcfd63ff41390",
-        "status" : "passed",
+        "uid" : "3c72f630138c3750",
+        "parentUid" : "d8026f4427f3a91cf6c326a973dcb3cf",
+        "status" : "broken",
         "time" : {
-          "start" : 1725059407036,
-          "stop" : 1725059426587,
-          "duration" : 19551
+          "start" : 1725059560741,
+          "stop" : 1725059571875,
+          "duration" : 11134
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "b69980546d73ec1184edcfd63ff41390"
+      "uid" : "d8026f4427f3a91cf6c326a973dcb3cf"
+    }, {
+      "name" : "3150@Mac-1725058447718.local.TestNG-test-Login Test-1(24)",
+      "children" : [ {
+        "name" : "Verify that user can't Login with valid but not registered email",
+        "uid" : "bdd3af4ba835f634",
+        "parentUid" : "d9090f55022dae088ae22ec48429fd98",
+        "status" : "passed",
+        "time" : {
+          "start" : 1725059540127,
+          "stop" : 1725059553836,
+          "duration" : 13709
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d9090f55022dae088ae22ec48429fd98"
     } ],
-    "uid" : "b97c4625219615a65989fce6b742cf30"
+    "uid" : "84a20ba028556df394e0222f73226d13"
   } ]
 }
