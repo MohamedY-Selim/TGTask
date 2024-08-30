@@ -1,19 +1,18 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "name" : "behaviors",
   "children" : [ {
     "name" : "Signup Feature",
     "children" : [ {
       "name" : "Login Page",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "bdd3af4ba835f634",
+        "uid" : "ecf035d0f70d7da8",
         "parentUid" : "95cf30fd4f01167612923937130e3def",
-        "status" : "passed",
+        "status" : "failed",
         "time" : {
-          "start" : 1725059540127,
-          "stop" : 1725059553836,
-          "duration" : 13709
+          "start" : 1725059764748,
+          "stop" : 1725059789513,
+          "duration" : 24765
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -27,13 +26,13 @@
       "name" : "Add Items To Cart",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "3c72f630138c3750",
+        "uid" : "e23f4f14a7946964",
         "parentUid" : "aa92638214e5b90c273bec88dd8cb1e4",
         "status" : "broken",
         "time" : {
-          "start" : 1725059560741,
-          "stop" : 1725059571875,
-          "duration" : 11134
+          "start" : 1725059796192,
+          "stop" : 1725059807452,
+          "duration" : 11260
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -41,5 +40,6 @@
       "uid" : "aa92638214e5b90c273bec88dd8cb1e4"
     } ],
     "uid" : "849c2af33a94daa19e47ea5b3873d8cc"
-  } ]
+  } ],
+  "name" : "behaviors"
 }

@@ -1,41 +1,41 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "name" : "timeline",
   "children" : [ {
-    "name" : "Mac-1725058447718.local",
+    "name" : "Mac-1725058349946.local",
     "children" : [ {
-      "name" : "3150@Mac-1725058447718.local.TestNG-test-Cart Test-1(45)",
+      "name" : "3408@Mac-1725058349946.local.TestNG-test-Cart Test-1(45)",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "3c72f630138c3750",
-        "parentUid" : "d8026f4427f3a91cf6c326a973dcb3cf",
+        "uid" : "e23f4f14a7946964",
+        "parentUid" : "04bde3b234516e08e63e5712d4f44b3d",
         "status" : "broken",
         "time" : {
-          "start" : 1725059560741,
-          "stop" : 1725059571875,
-          "duration" : 11134
+          "start" : 1725059796192,
+          "stop" : 1725059807452,
+          "duration" : 11260
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "d8026f4427f3a91cf6c326a973dcb3cf"
+      "uid" : "04bde3b234516e08e63e5712d4f44b3d"
     }, {
-      "name" : "3150@Mac-1725058447718.local.TestNG-test-Login Test-1(24)",
+      "name" : "3408@Mac-1725058349946.local.TestNG-test-Login Test-1(24)",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "bdd3af4ba835f634",
-        "parentUid" : "d9090f55022dae088ae22ec48429fd98",
-        "status" : "passed",
+        "uid" : "ecf035d0f70d7da8",
+        "parentUid" : "830aced7628ca76735d21b1b3fcb2717",
+        "status" : "failed",
         "time" : {
-          "start" : 1725059540127,
-          "stop" : 1725059553836,
-          "duration" : 13709
+          "start" : 1725059764748,
+          "stop" : 1725059789513,
+          "duration" : 24765
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "d9090f55022dae088ae22ec48429fd98"
+      "uid" : "830aced7628ca76735d21b1b3fcb2717"
     } ],
-    "uid" : "84a20ba028556df394e0222f73226d13"
-  } ]
+    "uid" : "8ca2f84d6248d2ab135d499e4eab0cbe"
+  } ],
+  "name" : "timeline"
 }
