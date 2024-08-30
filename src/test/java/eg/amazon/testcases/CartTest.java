@@ -1,12 +1,12 @@
-package eg.amazon.utils;
+package eg.amazon.testcases;
 
 import eg.amazon.base.BaseTest;
 import eg.amazon.config.EndPoint;
 import eg.amazon.objects.Product;
 import eg.amazon.pages.*;
+import eg.amazon.utils.ConfigUtils;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Story;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 @Feature("Cart Feature")

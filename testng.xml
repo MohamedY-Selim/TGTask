@@ -14,7 +14,7 @@
     </test>
     <test verbose="2" name="Cart Test" group-by-instances="true">
         <classes>
-            <class name="eg.amazon.testcases.Cart"/>
+            <class name="eg.amazon.testcases.CartTest"/>
         </classes>
     </test>
 </suite>
