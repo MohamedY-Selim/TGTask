@@ -1,0 +1,21 @@
+[ {
+  "uid" : "141ed19245c863a1",
+  "name" : "Verify that user can't Login with valid but not registered email",
+  "time" : {
+    "start" : 1725059123224,
+    "stop" : 1725059134564,
+    "duration" : 11340
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "69cd57faa64ca85",
+  "name" : "(Verify that Items are added to cart correctly)",
+  "time" : {
+    "start" : 1725059141737,
+    "stop" : 1725059152612,
+    "duration" : 10875
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

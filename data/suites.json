@@ -1,0 +1,49 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "Login Test",
+      "children" : [ {
+        "name" : "eg.amazon.testcases.LoginTest",
+        "children" : [ {
+          "name" : "Verify that user can't Login with valid but not registered email",
+          "uid" : "141ed19245c863a1",
+          "parentUid" : "64ed64ca69d9ac94baed40252966af09",
+          "status" : "broken",
+          "time" : {
+            "start" : 1725059123224,
+            "stop" : 1725059134564,
+            "duration" : 11340
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "64ed64ca69d9ac94baed40252966af09"
+      } ],
+      "uid" : "76cdbcd3411e3b94bcd77a18c923389e"
+    }, {
+      "name" : "Cart Test",
+      "children" : [ {
+        "name" : "eg.amazon.testcases.CartTest",
+        "children" : [ {
+          "name" : "(Verify that Items are added to cart correctly)",
+          "uid" : "69cd57faa64ca85",
+          "parentUid" : "9a4413da46bd7b11928cc5ada316c889",
+          "status" : "broken",
+          "time" : {
+            "start" : 1725059141737,
+            "stop" : 1725059152612,
+            "duration" : 10875
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9a4413da46bd7b11928cc5ada316c889"
+      } ],
+      "uid" : "8d64b26d558ebc2203fd406997ca8dbd"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ],
+  "name" : "suites"
+}

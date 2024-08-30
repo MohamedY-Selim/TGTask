@@ -1,0 +1,41 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Mac-1725057118992.local",
+    "children" : [ {
+      "name" : "4401@Mac-1725057118992.local.TestNG-test-Login Test-1(24)",
+      "children" : [ {
+        "name" : "Verify that user can't Login with valid but not registered email",
+        "uid" : "141ed19245c863a1",
+        "parentUid" : "637156189815cd5fb56dabe4089482c0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1725059123224,
+          "stop" : 1725059134564,
+          "duration" : 11340
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "637156189815cd5fb56dabe4089482c0"
+    }, {
+      "name" : "4401@Mac-1725057118992.local.TestNG-test-Cart Test-1(45)",
+      "children" : [ {
+        "name" : "(Verify that Items are added to cart correctly)",
+        "uid" : "69cd57faa64ca85",
+        "parentUid" : "0c97d4e44c2135e352dfe2d9aea1f5dd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1725059141737,
+          "stop" : 1725059152612,
+          "duration" : 10875
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c97d4e44c2135e352dfe2d9aea1f5dd"
+    } ],
+    "uid" : "79e640849ed7fe48e84bc294b725fe08"
+  } ],
+  "name" : "timeline"
+}
