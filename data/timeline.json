@@ -1,41 +1,41 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "children" : [ {
-    "name" : "Mac-1725058349946.local",
+    "name" : "Mac-1725058494440.local",
     "children" : [ {
-      "name" : "3408@Mac-1725058349946.local.TestNG-test-Cart Test-1(45)",
+      "name" : "3498@Mac-1725058494440.local.TestNG-test-Cart Test-1(45)",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "e23f4f14a7946964",
-        "parentUid" : "04bde3b234516e08e63e5712d4f44b3d",
-        "status" : "broken",
+        "uid" : "47bd946fe6bd6934",
+        "parentUid" : "22082df110586bbb3ad84ee7ab0d6b67",
+        "status" : "passed",
         "time" : {
-          "start" : 1725059796192,
-          "stop" : 1725059807452,
-          "duration" : 11260
+          "start" : 1725059988517,
+          "stop" : 1725060006815,
+          "duration" : 18298
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "04bde3b234516e08e63e5712d4f44b3d"
+      "uid" : "22082df110586bbb3ad84ee7ab0d6b67"
     }, {
-      "name" : "3408@Mac-1725058349946.local.TestNG-test-Login Test-1(24)",
+      "name" : "3498@Mac-1725058494440.local.TestNG-test-Login Test-1(24)",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "ecf035d0f70d7da8",
-        "parentUid" : "830aced7628ca76735d21b1b3fcb2717",
-        "status" : "failed",
+        "uid" : "7725a7bec7818d3e",
+        "parentUid" : "61a59245216bc3b394b33bf2282b0820",
+        "status" : "passed",
         "time" : {
-          "start" : 1725059764748,
-          "stop" : 1725059789513,
-          "duration" : 24765
+          "start" : 1725059972384,
+          "stop" : 1725059981872,
+          "duration" : 9488
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "830aced7628ca76735d21b1b3fcb2717"
+      "uid" : "61a59245216bc3b394b33bf2282b0820"
     } ],
-    "uid" : "8ca2f84d6248d2ab135d499e4eab0cbe"
+    "uid" : "a020dacb713d4965873159e7d421c426"
   } ],
   "name" : "timeline"
 }

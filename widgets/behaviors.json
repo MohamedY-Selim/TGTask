@@ -4,10 +4,10 @@
     "uid" : "f82721a0990204eb1465fa8bde2b28c7",
     "name" : "Signup Feature",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     }
@@ -16,9 +16,9 @@
     "name" : "Cart Feature",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     }
