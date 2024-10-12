@@ -1,41 +1,41 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
   "children" : [ {
-    "name" : "Mac-1725058494440.local",
+    "name" : "Mac-1728745994121.local",
     "children" : [ {
-      "name" : "3498@Mac-1725058494440.local.TestNG-test-Cart Test-1(45)",
+      "name" : "2997@Mac-1728745994121.local.TestNG-test-Cart Test-1(44)",
       "children" : [ {
         "name" : "(Verify that Items are added to cart correctly)",
-        "uid" : "47bd946fe6bd6934",
-        "parentUid" : "22082df110586bbb3ad84ee7ab0d6b67",
-        "status" : "passed",
+        "uid" : "d483205e7aad4776",
+        "parentUid" : "4c7f5f43ea98c5fb9a15275332231acf",
+        "status" : "broken",
         "time" : {
-          "start" : 1725059988517,
-          "stop" : 1725060006815,
-          "duration" : 18298
+          "start" : 1728747765772,
+          "stop" : 1728747795980,
+          "duration" : 30208
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "22082df110586bbb3ad84ee7ab0d6b67"
+      "uid" : "4c7f5f43ea98c5fb9a15275332231acf"
     }, {
-      "name" : "3498@Mac-1725058494440.local.TestNG-test-Login Test-1(24)",
+      "name" : "2997@Mac-1728745994121.local.TestNG-test-Login Test-1(24)",
       "children" : [ {
         "name" : "Verify that user can't Login with valid but not registered email",
-        "uid" : "7725a7bec7818d3e",
-        "parentUid" : "61a59245216bc3b394b33bf2282b0820",
+        "uid" : "345d35e611d8712f",
+        "parentUid" : "71752d144a2599766399bdf845df8665",
         "status" : "passed",
         "time" : {
-          "start" : 1725059972384,
-          "stop" : 1725059981872,
-          "duration" : 9488
+          "start" : 1728747748078,
+          "stop" : 1728747758468,
+          "duration" : 10390
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "61a59245216bc3b394b33bf2282b0820"
+      "uid" : "71752d144a2599766399bdf845df8665"
     } ],
-    "uid" : "a020dacb713d4965873159e7d421c426"
-  } ],
-  "name" : "timeline"
+    "uid" : "2fdfc35a7629b4af1de0a4461187d728"
+  } ]
 }

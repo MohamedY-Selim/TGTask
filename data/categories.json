@@ -1,5 +1,25 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
-  "name" : "categories"
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='bxc-grid__image   bxc-grid__image--light']' (tried for 15 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "(Verify that Items are added to cart correctly)",
+        "uid" : "d483205e7aad4776",
+        "parentUid" : "5c7d0210b5a5c780c26e4b3b243f0d4b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1728747765772,
+          "stop" : 1728747795980,
+          "duration" : 30208
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c7d0210b5a5c780c26e4b3b243f0d4b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
 }
